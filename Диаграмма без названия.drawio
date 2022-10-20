@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T12:18:42.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 YaBrowser/22.9.3.886 Yowser/2.5 Safari/537.36" etag="npbNURRHatbaEGtuQR7W" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T12:29:20.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 YaBrowser/22.9.3.886 Yowser/2.5 Safari/537.36" etag="Fo4ql1IFpxT2wJwwo-12" version="20.4.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1394" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -127,11 +127,12 @@
         <mxCell id="ZB60MOo4yDvPnwNVifFn-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.393;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-125" target="ZB60MOo4yDvPnwNVifFn-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZB60MOo4yDvPnwNVifFn-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-125" target="ZB60MOo4yDvPnwNVifFn-151">
+        <mxCell id="ZB60MOo4yDvPnwNVifFn-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.33;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-125" target="ZB60MOo4yDvPnwNVifFn-151">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="733" y="50" />
+              <mxPoint x="758" y="50" />
             </Array>
+            <mxPoint x="730" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZB60MOo4yDvPnwNVifFn-125" value="Документ &quot;Реализация товаров и услуг&quot;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
@@ -233,22 +234,13 @@
             <mxPoint x="725" y="825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZB60MOo4yDvPnwNVifFn-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-143" target="ZB60MOo4yDvPnwNVifFn-145">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZB60MOo4yDvPnwNVifFn-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="836" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZB60MOo4yDvPnwNVifFn-143" value="Документ &quot;Перемещение товаров&quot;&#xa;со склада ВК" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="787" y="20" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZB60MOo4yDvPnwNVifFn-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-145" target="ZB60MOo4yDvPnwNVifFn-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="836" y="200" />
-              <mxPoint x="753" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZB60MOo4yDvPnwNVifFn-145" value="Документ &quot;Расходный ордер&quot;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="783.5" y="110" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZB60MOo4yDvPnwNVifFn-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.618;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-147" target="ZB60MOo4yDvPnwNVifFn-96">
           <mxGeometry relative="1" as="geometry">
@@ -271,16 +263,14 @@
         <mxCell id="ZB60MOo4yDvPnwNVifFn-149" value="Документ &quot;Перемещение товаров&quot;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="937" y="830" width="104" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZB60MOo4yDvPnwNVifFn-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-151" target="ZB60MOo4yDvPnwNVifFn-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="707" y="200" />
-              <mxPoint x="725" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZB60MOo4yDvPnwNVifFn-151" value="Документ &quot;Расходный ордер&quot;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="654" y="110" width="105" height="60" as="geometry" />
+          <mxGeometry x="700" y="110" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZB60MOo4yDvPnwNVifFn-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.682;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="ZB60MOo4yDvPnwNVifFn-151" target="ZB60MOo4yDvPnwNVifFn-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737" y="330" as="sourcePoint" />
+            <mxPoint x="787" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
